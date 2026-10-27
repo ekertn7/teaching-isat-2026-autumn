@@ -7,4 +7,5 @@
 3. Создать папку Name_Surname
 4. Создать файл homework_1.txt, поместить в этот файл вывод команды `git remote -vv`
 5. Добавить файл в индекс, создать коммит "Added first homework by Name Surname", запушить в эту ветку в удаленный репозиторий
+6. Создать Pull Request в master ветку из вашей ветки feature/Name_Surname, написать в названии "Имя Фамилия домашняя работа 1"
 
