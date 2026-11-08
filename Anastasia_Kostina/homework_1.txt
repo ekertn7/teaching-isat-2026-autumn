@@ -1,0 +1,2 @@
+origin	https://github.com/Anastasiia5666/teaching-isat-2026-autumn.git (fetch)
+origin	https://github.com/Anastasiia5666/teaching-isat-2026-autumn.git (push)
