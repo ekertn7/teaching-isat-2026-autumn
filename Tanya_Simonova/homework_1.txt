@@ -1,2 +1,2 @@
-origin	git@github.com:ekertn7/teaching-isat-2026-autumn.git (fetch)
-origin	git@github.com:ekertn7/teaching-isat-2026-autumn.git (push)
+origin	git@github.com:TatyanaSimonova/teaching-isat-2026-autumn.git (fetch)
+origin	git@github.com:TatyanaSimonova/teaching-isat-2026-autumn.git (push)
